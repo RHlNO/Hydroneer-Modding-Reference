@@ -1,0 +1,18 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[3] =
+{
+    ReferencedTextures[0] = Texture2D'Textures/SM_Prop_Tech_Pipe_02_Mat_Dungeon_03_BaseColor.SM_Prop_Tech_Pipe_02_Mat_Dungeon_03_BaseColor'
+    ReferencedTextures[1] = Texture2D'Textures/SM_Prop_Tech_Pipe_02_Mat_Dungeon_03_Normal.SM_Prop_Tech_Pipe_02_Mat_Dungeon_03_Normal'
+    ReferencedTextures[2] = Texture2D'Textures/SM_Prop_Tech_Pipe_02_Mat_Dungeon_03_OcclusionRoughnessMetallic.SM_Prop_Tech_Pipe_02_Mat_Dungeon_03_OcclusionRoughnessMetallic'
+}
+BlendMode = BLEND_Opaque (0)
+OpacityMaskClipValue = 0.333
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
