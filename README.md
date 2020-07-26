@@ -17,6 +17,8 @@ Seven - Extension Funnel
 
 Eight - Explosives
 
-Nine - Nate?
+Nine - Nate Building Items
 
-Ten - 
+Ten - Meaf Building Items
+
+11 - Gem Splitter
