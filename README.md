@@ -30,3 +30,5 @@ Ten - Meaf Building Items
 14 - Inventory
 
 15 - Tiny Items
+
+16 - Vault Door
