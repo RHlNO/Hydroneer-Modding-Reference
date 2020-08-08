@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class Hydroneer : ModuleRules
+public class Mining : ModuleRules
 {
-	public Hydroneer(ReadOnlyTargetRules Target) : base(Target)
+	public Mining(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
