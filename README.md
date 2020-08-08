@@ -32,3 +32,7 @@ Ten - Meaf Building Items
 15 - Tiny Items
 
 16 - Vault Door
+
+17- Flatscreen TV
+
+18 - Stamper
