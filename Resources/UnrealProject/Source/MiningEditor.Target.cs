@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class HydroneerEditorTarget : TargetRules
+public class MiningEditorTarget : TargetRules
 {
-	public HydroneerEditorTarget(TargetInfo Target) : base(Target)
+	public MiningEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 
-		ExtraModuleNames.AddRange( new string[] { "Hydroneer" } );
+		ExtraModuleNames.AddRange( new string[] { "Mining" } );
 	}
 }
