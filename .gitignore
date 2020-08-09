@@ -75,3 +75,5 @@ Resources/UnrealProject/DerivedDataCache/*
 
 #Other files
 *.spp
+*.spp
+*.painter_lock
