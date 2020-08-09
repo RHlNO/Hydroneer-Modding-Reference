@@ -72,8 +72,6 @@ Resources/UnrealProject/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 Resources/UnrealProject/DerivedDataCache/*
-Item Source Files/Walls/1x1/FBP_Wall_1x1_SubstancePainterProject.spp
-Item Source Files/Walls/1x2/FBP_Wall_1x2_SubstancePainterProject.spp
-Item Source Files/Walls/1x4/FBP_Wall_1x4_SubstancePainterProject.spp
-Item Source Files/Walls/2x4/FBP_Wall_2x4_SubstancePainterProject.spp
+
+#Other files
 *.spp
