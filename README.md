@@ -36,3 +36,5 @@ Ten - Meaf Building Items
 17- Flatscreen TV
 
 18 - Stamper
+
+19 - MultiCloner
