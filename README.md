@@ -3,6 +3,8 @@ This repo is a reference for modding the video game Hydroneer.  It is currently 
 Please do not re-post, claim ownership of, or exploit the contents of this repository in any way.  This is meant to be a source for current and aspiring modders to learn.
 All content in this repository was previously made by Heilos, NineOClockNate, Meaf, and Rhino.
 
+For code reference and texturing references, check out the unreal project and substance painter files in the Resources folder.
+
 # Mod Indices
 
 One - Castle
